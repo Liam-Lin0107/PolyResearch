@@ -1,0 +1,44 @@
+CPU time  is 0.217081
+N=640: value: 6.886521
+CPU time  is 0.855829
+N=1280: value: 6.887625
+CPU time  is 3.432813
+N=2560: value: 6.888177
+CPU time  is 13.668341
+N=5120: value: 6.888453
+CPU time  is 55.608374
+N=10240: value: 6.888591
+
+CPU time  is 0.209590
+N=640: value: 1.393040
+CPU time  is 0.838814
+N=1280: value: 1.413447
+CPU time  is 3.360482
+N=2560: value: 1.415613
+CPU time  is 13.686445
+N=5120: value: 1.419897
+CPU time  is 55.534855
+N=10240: value: 1.421250
+
+CPU time  is 0.209431
+N=640: value: 22.417073
+CPU time  is 0.826122
+N=1280: value: 22.433468
+CPU time  is 3.206453
+N=2560: value: 22.431061
+CPU time  is 13.009758
+N=5120: value: 22.431319
+CPU time  is 55.395324
+N=10240: value: 22.432335
+
+CPU time  is 0.215994
+N=640: value: 32.110556
+CPU time  is 0.862979
+N=1280: value: 32.112681
+CPU time  is 3.462448
+N=2560: value: 32.115522
+CPU time  is 13.845794
+N=5120: value: 32.118419
+CPU time  is 55.436500
+N=10240: value: 32.119079
+

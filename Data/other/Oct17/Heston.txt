@@ -1,0 +1,64 @@
+===================Heston 右翹===================
+best integral lower bound: 23.484662036848302
+best integral upper bound: 236.15584487419775
+best interval lower bound: 122.2841614740048
+best interval upper bound: 236.15584487419775
+CPU time  is 0.001289
+CPU time  is 0.002377
+CPU time  is 0.004593
+CPU time  is 0.009344
+CPU time  is 0.018171
+
+N=64: value: 0.117389
+N=128: value: 0.117389
+N=256: value: 0.117389
+N=512: value: 0.117389
+N=1024: value: 0.117389
+
+C.V.: (0.09578383, 0.13229247)
+mean: 0.11403815000216122
+
+        
+===================Heston 左翹===================
+best integral lower bound: 26.94520668155907
+best integral upper bound: 183.2104137240253
+best interval lower bound: 26.94520668155907
+best interval upper bound: 149.99999999999997
+CPU time  is 0.002694
+CPU time  is 0.004884
+CPU time  is 0.009860
+CPU time  is 0.019770
+CPU time  is 0.039102
+                                
+N=64: value: 22126.503015
+N=128: value: 22126.503015
+N=256: value: 22126.503015
+N=512: value: 22126.503015
+N=1024: value: 22126.503015
+
+C.V.: (22127.51304092, 22143.19328390)
+mean: 22135.35316241034
+
+===================Heston 雙翹===================
+best integral lower bound: 0.9382811523751899
+best integral upper bound: 29.841801606181573
+best interval lower bound: 0.9382811523751899
+best interval upper bound: 29.841801606181573
+
+CPU time  is 0.004646
+CPU time  is 0.009372
+CPU time  is 0.019168
+CPU time  is 0.036915
+CPU time  is 0.073790
+
+N=64: value: 9.859003
+N=128: value: 9.859003
+N=256: value: 9.859003
+N=512: value: 9.859003
+N=1024: value: 9.859003
+
+C.V.: (9.58998268, 9.96240891)
+mean: 9.776195795091436
+
+
+

@@ -1,0 +1,69 @@
+===================MDJ Call===================
+best integral lower bound: 47.236655274101615
+best integral upper bound: 409.5751966513102
+best interval lower bound: 100.00000000000004
+best interval upper bound: 409.5751966513102
+10.528159591517483
+
+C.V.: (11.10291329, 11.17359306)
+mean: 11.13825317659968
+
+
+===================MDJ 右翹===================
+best integral lower bound: 17.397865543449466
+best integral upper bound: 499.9419275218555
+best interval lower bound: 122.2841614740048
+best interval upper bound: 499.9419275218555
+CPU time  is 0.001067
+CPU time  is 0.002010
+CPU time  is 0.003947
+CPU time  is 0.007871
+CPU time  is 0.015695
+
+N=64: value: 10.275554
+N=128: value: 10.275554
+N=256: value: 10.275554
+N=512: value: 10.275554
+N=1024: value: 10.275554
+
+C.V.: (13.28591313, 14.40121787)
+mean: 13.843565498727068
+===================MDJ 左翹===================
+best integral lower bound: 18.061912183222518
+best integral upper bound: 235.24682782352488
+best interval lower bound: 18.061912183222518
+best interval upper bound: 149.99999999999997
+CPU time  is 0.002826
+CPU time  is 0.006654
+CPU time  is 0.011579
+CPU time  is 0.024738
+CPU time  is 0.038344
+
+N=64: value: 20984.791003
+N=128: value: 20984.791003
+N=256: value: 20984.791003
+N=512: value: 20984.791003
+N=1024: value: 20984.791003
+
+C.V.: (21067.13308390, 21119.73629546)
+mean: 21093.434689680427
+
+===================MDJ 雙翹===================
+best integral lower bound: 0.3283399944955948
+best integral upper bound: 85.27745772492356
+best interval lower bound: 0.3283399944955948
+best interval upper bound: 85.27745772492356
+CPU time  is 0.005692
+CPU time  is 0.010675
+CPU time  is 0.019196
+CPU time  is 0.035346
+CPU time  is 0.067359
+
+N=64: value: 95.343874
+N=128: value: 95.343874
+N=256: value: 95.343874
+N=512: value: 95.343874
+N=1024: value: 95.343874
+
+C.V.: (175.49198881, 185.22255300)
+mean: 180.35727090883253

@@ -1,0 +1,59 @@
+best integral lower bound: 47.236655274101615
+best integral upper bound: 409.5751966513102
+best interval lower bound: 100.00000000000004
+best interval upper bound: 409.5751966513102
+CPU time  is 0.001635
+N=64: value: 10.525214
+CPU time  is 0.003164
+N=128: value: 10.525214
+CPU time  is 0.006291
+N=256: value: 10.525214
+CPU time  is 0.012469
+N=512: value: 10.525214
+CPU time  is 0.025188
+N=1024: value: 10.525214
+
+best integral lower bound: 19.227615035210714
+best integral upper bound: 370.36608919092976
+best interval lower bound: 122.2841614740048
+best interval upper bound: 370.36608919092976
+CPU time  is 0.002175
+N=64: value: 2.650634
+CPU time  is 0.004239
+N=128: value: 2.650634
+CPU time  is 0.008410
+N=256: value: 2.650634
+CPU time  is 0.016901
+N=512: value: 2.650634
+CPU time  is 0.033858
+N=1024: value: 2.650634
+
+best integral lower bound: 19.96150006973375
+best integral upper bound: 273.3178200585757
+best interval lower bound: 19.96150006973375
+best interval upper bound: 149.99999999999997
+CPU time  is 0.004417
+N=64: value: 22.140746
+CPU time  is 0.008737
+N=128: value: 22.140746
+CPU time  is 0.017428
+N=256: value: 22.140746
+CPU time  is 0.034883
+N=512: value: 22.140746
+CPU time  is 0.069973
+N=1024: value: 22.140746
+
+best integral lower bound: 0.28949817087667196
+best integral upper bound: 221.44519618945893
+best interval lower bound: 0.28949817087667196
+best interval upper bound: 221.44519618945893
+CPU time  is 0.007251
+N=64: value: 32.119286
+CPU time  is 0.014307
+N=128: value: 32.119286
+CPU time  is 0.028550
+N=256: value: 32.119286
+CPU time  is 0.056949
+N=512: value: 32.119286
+CPU time  is 0.114578
+N=1024: value: 32.119286

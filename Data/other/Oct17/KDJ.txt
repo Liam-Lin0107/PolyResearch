@@ -1,0 +1,77 @@
+=================KDJ Call==================
+best integral lower bound: 34.29389941289337
+best integral upper bound: 629.6221327375771
+best interval lower bound: 98.00000000000004
+best interval upper bound: 629.6221327375771
+CPU time  is 0.000886
+CPU time  is 0.001520
+CPU time  is 0.003043
+CPU time  is 0.005922
+CPU time  is 0.011542
+
+N=64: value: 9.147853
+N=128: value: 9.147853
+N=256: value: 9.147853
+N=512: value: 9.147853
+N=1024: value: 9.147853
+ans : 9.14732 (論文)
+
+C.V.: (9.12991130, 9.16567255)
+mean: 9.147791922360405
+
+=================KDJ 右翹==================
+best integral lower bound: 14.244167558337864
+best integral upper bound: 957.659174304018
+best interval lower bound: 122.2841614740048
+best interval upper bound: 957.659174304018
+CPU time  is 0.001100
+N=64: value: 5.176415
+CPU time  is 0.002083
+N=128: value: 5.176415
+CPU time  is 0.003967
+N=256: value: 5.176415
+CPU time  is 0.008153
+N=512: value: 5.176415
+CPU time  is 0.016197
+N=1024: value: 5.176415
+
+C.V.: (4.85922094, 5.47090546)
+mean: 5.165063199393041
+
+=================KDJ 左翹==================
+best integral lower bound: 0.5454224875370172
+best integral upper bound: 212.86013228898827
+best interval lower bound: 0.5454224875370172
+best interval upper bound: 149.99999999999997
+CPU time  is 0.002569
+N=64: value: 25302.052248
+CPU time  is 0.004675
+N=128: value: 25302.052244
+CPU time  is 0.009896
+N=256: value: 25302.052244
+CPU time  is 0.020645
+N=512: value: 25302.052244
+CPU time  is 0.044131
+N=1024: value: 25302.052244
+
+C.V.: (25284.88913580, 25389.56997080)
+mean: 25337.22955329921
+
+=================KDJ 雙翹==================
+best integral lower bound: 0.059982307281910875
+best integral upper bound: 312.9082914531016
+best interval lower bound: 0.059982307281910875
+best interval upper bound: 312.9082914531016
+CPU time  is 0.005051
+N=64: value: 44.169359
+CPU time  is 0.009886
+N=128: value: 44.309722
+CPU time  is 0.020738
+N=256: value: 44.309722
+CPU time  is 0.047931
+N=512: value: 44.309722
+CPU time  is 0.095218
+N=1024: value: 44.309722
+
+C.V.: (39.96524999, 49.95667604)
+mean: 44.96096301314409

@@ -1,0 +1,65 @@
+===================SVJ Call===================
+best integral lower bound: 47.236655274101615
+best integral upper bound: 409.5751966513102
+best interval lower bound: 100.00000000000004
+best interval upper bound: 409.5751966513102
+10.52521392417102
+
+C.V.: (11.11745409, 11.15642365)
+mean: 11.136938869344501
+
+===================SVJ 右翹===================
+best integral lower bound: 19.227615035210714
+best integral upper bound: 370.36608919092976
+best interval lower bound: 122.2841614740048
+best interval upper bound: 370.36608919092976
+CPU time  is 0.001270
+CPU time  is 0.002459
+CPU time  is 0.004861
+CPU time  is 0.009700
+CPU time  is 0.019669
+
+N=64: value: 2.650634
+N=128: value: 2.650634
+N=256: value: 2.650634
+N=512: value: 2.650634
+N=1024: value: 2.650634
+
+C.V.: (3.98380293, 4.64672464)
+mean: 4.315263782680741
+===================SVJ 左翹===================
+best integral lower bound: 18.987966223503797
+best integral upper bound: 223.77370464619017
+best interval lower bound: 18.987966223503797
+best interval upper bound: 149.99999999999997
+CPU time  is 0.002574
+CPU time  is 0.005118
+CPU time  is 0.010139
+CPU time  is 0.020558
+CPU time  is 0.040604
+
+N=64: value: 20955.119831
+N=128: value: 20955.119831
+N=256: value: 20955.119831
+N=512: value: 20955.119831
+N=1024: value: 20955.119831
+
+C.V.: (20942.30017235, 21008.31349700)
+mean: 20975.306834672734
+===================SVJ 雙翹===================
+best integral lower bound: 0.38147664886219806
+best integral upper bound: 73.39898807309241
+best interval lower bound: 0.38147664886219806
+best interval upper bound: 73.39898807309241
+CPU time  is 0.004565
+CPU time  is 0.008864
+CPU time  is 0.017918
+CPU time  is 0.035593
+CPU time  is 0.072240
+
+N=64: value: 67.546961
+N=128: value: 67.546961
+N=256: value: 67.546961
+N=512: value: 67.546961
+N=1024: value: 67.546961
+(40.73490942947129, 69.46587848141318)

@@ -1,0 +1,92 @@
+============================================================
+====================     Test 01     =======================
+============================================================
+S0 = 100
+T = 0.5
+r = 0.03
+sigma = 0.25
+poly_coef = [947100, -30164, 309, -1]
+positive_interval = [0, 77, 82, 150]
+mean_reversion_speed = 1.5768
+long_term_var_mean = 0.0398
+corr = -0.5711
+var_variance_process = 0.5751
+------------------------------------------------------------
+best integral lower bound: 14.066631352060657
+best integral upper bound: 212.86013228898827
+best interval lower bound: 14.066631352060657
+best interval upper bound: 149.99999999999997
+------------------------------------------------------------
+CPU time  is 0.002708
+N=64: value: 30365.561994
+CPU time  is 0.005110
+N=128: value: 30365.561994
+CPU time  is 0.009981
+N=256: value: 30365.561994
+CPU time  is 0.019814
+N=512: value: 30365.561994
+CPU time  is 0.039886
+N=1024: value: 30365.561994
+
+============================================================
+====================     Test 02     =======================
+============================================================
+S0 = 5
+T = 1
+r = 0.1
+sigma = 0.25
+poly_coef = [840, -638, 179, -22, 1]
+positive_interval  = [0, 4, 5, 6, 7, inf]
+mean_reversion_speed = 1.5768
+long_term_var_mean = 0.0398
+corr = -0.5711
+var_variance_process = 0.5751
+------------------------------------------------------------
+best integral lower bound: 0.6481030037355222
+best integral upper bound: 20.204596924875272
+best interval lower bound: 0.6481030037355222
+best interval upper bound: 20.204596924875272
+------------------------------------------------------------
+CPU time  is 0.005185
+N=64: value: 36.648941
+CPU time  is 0.009509
+N=128: value: 36.648941
+CPU time  is 0.019655
+N=256: value: 36.648941
+CPU time  is 0.039503
+N=512: value: 36.648941
+CPU time  is 0.080602
+N=1024: value: 36.648941
+
+
+============================================================
+====================     Test 03     =======================
+============================================================
+S0 = 50
+T = 0.5
+r = 0.1
+sigma = 0.4
+poly_coef = [-2725, -100, 1]
+positive_interval  = [5*(10+math.sqrt(209)), inf]
+mean_reversion_speed = 1.5768
+long_term_var_mean = 0.0398
+corr = -0.5711
+var_variance_process = 0.5751
+------------------------------------------------------------
+best integral lower bound: 10.343388556403813
+best integral upper bound: 144.6753037108539
+best interval lower bound: 122.2841614740048
+best interval upper bound: 144.6753037108539
+------------------------------------------------------------
+CPU time  is 0.001221
+N=64: value: 0.452587
+CPU time  is 0.002249
+N=128: value: 0.452587
+CPU time  is 0.004521
+N=256: value: 0.452587
+CPU time  is 0.008949
+N=512: value: 0.452587
+CPU time  is 0.017891
+N=1024: value: 0.452587
+
+
